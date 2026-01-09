@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Counter
+Comment=Counter app for COSMIC DE
+Type=Application
+Icon=io.github.alexkdeveloper.counter
+Exec=counter %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
