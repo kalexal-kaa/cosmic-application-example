@@ -1,4 +1,4 @@
-# COSMIC Application template
+# COSMIC Application example
 
 An example of an application for COSMIC DE based on the [cosmic-app-template](https://github.com/pop-os/cosmic-app-template).
 
