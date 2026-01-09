@@ -4,9 +4,11 @@ An extended version of the application template created for COSMIC DE.
 
 ## Screenshots
 
-![screenshot1.png](/screenshot1.png)
-![screenshot2.png](/screenshot2.png)
-![screenshot3.png](/screenshot3.png)
+![screenshot1.png](/resources/screenshot1.png)
+![screenshot2.png](/resources/screenshot2.png)
+![screenshot3.png](/resources/screenshot3.png)
+![screenshot3.png](/resources/screenshot4.png)
+
 
 ## Installation
 
